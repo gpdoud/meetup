@@ -1,0 +1,9 @@
+
+input, select {
+    border-radius: 7px;
+    text-align: center;
+    width: 100px;
+}
+select {
+    width: 100px;
+}
